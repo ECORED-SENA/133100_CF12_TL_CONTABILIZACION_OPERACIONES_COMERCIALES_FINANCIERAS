@@ -8,7 +8,7 @@
       h1(data-aos="zoom-in") Operación del servicio
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.png')})`}"
         )
@@ -34,7 +34,7 @@
                  
           p.text-white  La presente ley tiene por objeto desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma. (Congreso de la República, 2012).
 
-        .col-md.tarjeta.bg-t1-5.p-5
+        .col-md.tarjeta.bg-t1-6.p-5
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-2
               figure
@@ -62,7 +62,7 @@
 
     p.mt-4 De igual forma, el Decreto 1377 de 2013, establece directrices para el tratamiento y protección de datos, la cual reglamenta parcialmente la Ley 1581 de 2012, que dice:
 
-    .row.bg-t1-14.p-4.mt-4(data-aos="fade-left")
+    .row.bg-t1-22.p-4.mt-4(data-aos="fade-left")
       p Que mediante la Ley 1581 de 2012 se expidió el Régimen General de Protección de Datos Personales, el cual, de conformidad con su artículo 1, tiene por objeto “( … ) desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma” (Ministerio de Comercio, Industria y Turismo, 2013).
 
       p Que la Ley 1581 de 2012 constituye el marco general de la protección de los datos personales en Colombia (Ministerio de Comercio, Industria y Turismo, 2013).
@@ -70,7 +70,7 @@
       p Que mediante sentencia C-748 del 6 de octubre de 2011 la Corte Constitucional declaró exequible el Proyecto de Ley Estatutaria No. 184 de 2010 Senado, 046 de 2010 Cámara (Ministerio de Comercio, Industria y Turismo, 2013).
 
       p Que con el fin de facilitar la implementación y cumplimiento de la Ley 1581 de 2012 se deben reglamentar aspectos relacionados con la autorización del Titular de información para el Tratamiento de sus datos personales, las políticas de Tratamiento de los Responsables y Encargados, el ejercicio de los derechos de los Titulares de información, las transferencias de datos personales y la responsabilidad demostrada frente al Tratamiento de datos personales, este último tema referido a la rendición de cuentas.
-    .row.p-4.bg-t1-15(data-aos="fade-right")
+    .row.p-4.bg-t1-20(data-aos="fade-right")
       .col-lg-8
         p En virtud de lo expuesto:
         p.mb-0 #[b DECRETA]
@@ -127,7 +127,7 @@
 
     .row.align-items-center
       .col-lg-7
-        p.p-4.bg-t1-9(data-aos="fade-right") En el desarrollo de las actividades empresariales y en atención al objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que exprese las directrices que se deben de tener en cuenta en un proceso determinado.
+        p.p-4.bg-t1-25(data-aos="fade-right") En el desarrollo de las actividades empresariales y en atención al objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que exprese las directrices que se deben de tener en cuenta en un proceso determinado.
 
         p Dentro de las solicitudes de los clientes encontramos:
 
@@ -188,7 +188,7 @@
       .col-lg-10.mt-4
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
-            .row.d-flex.align-items-stretch.bg-t1-9
+            .row.d-flex.align-items-stretch.bg-t1-26
               .col-lg-5.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                 figure.m-0.p-0.w-100.h-100.d-flex
                   img(src='@/assets/curso/tema3/img8.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
@@ -253,7 +253,7 @@
 
     .row.g-4
       .col-lg-6.px-lg-4
-        .row.bg-intro1.p-4
+        .row.bg-t1-27.p-4
           ul.lista-ul--color
             li.d-flex
               i.fa-solid.fa-greater-than
@@ -281,7 +281,7 @@
               p.mb-0 Tener excelente actitud y disposición.
 
       .col-lg-6
-        .row.bg-t1-15.p-4
+        .row.bg-t1-21.p-4
           ul.lista-ul--color
             li.d-flex
               i.fa-solid.fa-greater-than
@@ -311,7 +311,7 @@
 
     p.mt-4 Para atender oportunamente las solicitudes, peticiones y requerimientos de los clientes, es fundamental otorgar respuesta en el menor tiempo posible con el fin de lograr la satisfacción y fidelización de este. Por ello, existen técnicas de optimización de tiempo, entre las cuales figuran:
 
-    .row.bg-t1-18.mt-4.align-items-center
+    .row.bg-t1-17.mt-4.align-items-center
       .col-12
         .p-5
           .row.d-flex.align-items-stretch

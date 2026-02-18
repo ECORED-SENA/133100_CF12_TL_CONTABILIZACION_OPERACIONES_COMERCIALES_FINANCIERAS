@@ -10,7 +10,7 @@
     p En el ámbito empresarial toma gran importancia el servicio al cliente interno y externo; por lo tanto, es indispensable que se generen espacios de confianza y credibilidad; por ello, las empresas aplican normas y prácticas que permiten incrementar la cultura de servicio al cliente, que busca mantener relaciones sólidas, estables y amables con los diferentes usuarios, logrando fidelizar los clientes mediante las experiencias positivas que hayan obtenido en la empresa.
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-sm-4.p-md-5(data-aos="fade-down")
+      .bloque-texto-g.bloque-texto-g--inverso.bg-t1-6.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
         )
@@ -41,7 +41,7 @@
           p - Cristhiam Camilo Prieto Téllez, Prieto, 2018.
 
 
-    .row.align-items-center.mt-4.bg-t1-7.p-4
+    .row.align-items-center.mt-4.bg-t1-21.p-4
       .col-lg-1.d-none.d-lg-block 
         figure
           img(src="@/assets/curso/tema2/img2.svg", alt="", style="width: 73px").m-auto
@@ -55,7 +55,7 @@
         figure
           img(src='@/assets/curso/tema2/img3.png', alt='', style="width: 400px").m-auto
       .col-lg-4
-        .row.p-4.bg-t1-8 
+        .row.p-4.bg-intro1 
           p #[b Características de los servicios:]
           ul.lista-ul--color
             li.d-flex
@@ -94,7 +94,7 @@
         figure
           img(src='@/assets/curso/tema2/img4.png', alt='', style="width: 505px").m-auto
       .col-lg-7
-        p.p-4.bg-t1-9 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, donde se presentan una serie de actividades hasta llegar al final del proceso. Para su elaboración se relaciona un círculo y, de forma secuencial, se presentan cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de este.
+        p.p-4.bg-t1-22 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, donde se presentan una serie de actividades hasta llegar al final del proceso. Para su elaboración se relaciona un círculo y, de forma secuencial, se presentan cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de este.
 
         p Los ciclos de servicio permiten:
 
@@ -204,7 +204,7 @@
                  
           p.text-white Es la percepción positiva del cliente, que logra satisfacer sus necesidades y expectativas, logrando su fidelización y permanencia con la organización.
 
-        .col-md.tarjeta.bg-t1-5.p-5
+        .col-md.tarjeta.bg-t1-6.p-5
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-2
               figure
@@ -268,7 +268,7 @@
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/TjY8T_FHlTE?si=UL6eRPY2tRdHiL-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.align-items-center.mt-4.bg-t1-7.p-4
+    .row.align-items-center.mt-4.bg-t1-20.p-4
       .col-lg-1.d-none.d-lg-block 
         figure
           img(src="@/assets/curso/tema2/img13.svg", alt="", style="width: 73px").m-auto
@@ -302,7 +302,7 @@
     
     .row.align-items-center.mt-4
       .col-lg-5
-        p.p-4.bg-t1-8 Las empresas, en el desarrollo de sus actividades y en pro de mantener un excelente servicio, deben generar el documento que incorpore el protocolo y los procedimientos que deben implementar los colaboradores para generar momentos dulces o experiencias positivas. En términos generales, estamos hablando de un manual que relaciona los procedimientos unificados, donde relacionan las actividades que se ejecutan en determinado suceso.
+        p.p-4.bg-t1-20 Las empresas, en el desarrollo de sus actividades y en pro de mantener un excelente servicio, deben generar el documento que incorpore el protocolo y los procedimientos que deben implementar los colaboradores para generar momentos dulces o experiencias positivas. En términos generales, estamos hablando de un manual que relaciona los procedimientos unificados, donde relacionan las actividades que se ejecutan en determinado suceso.
       .col-lg-3.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema2/img15.png', alt='', style="width: 295px").m-auto
@@ -385,7 +385,7 @@
           img(src='@/assets/curso/tema2/img22.png', alt='', style="width: 400px").m-auto
 
       .col-lg-7
-        .row.bg-t1-9.p-4
+        .row.bg-t1-22.p-4
           ol.lista-ol--cuadro
             li.d-flex.align-items-start
               .lista-ol--cuadro__vineta
@@ -393,7 +393,7 @@
               span.ms-2
                 | Necesita demostrar su capacidad para proporcionar regularmente productos y servicios que satisfagan los requisitos del cliente y los legales y reglamentarios aplicables.
 
-        .row.bg-t1-9.p-4.mt-4
+        .row.bg-t1-22.p-4.mt-4
           ol.lista-ol--cuadro
             li.d-flex.align-items-start
               .lista-ol--cuadro__vineta
@@ -463,7 +463,7 @@
           img(src='@/assets/curso/tema2/img24.png', alt='', style="width: 505px").m-auto
 
       .col-lg-7
-        .row.p-4.bg-t1-15
+        .row.p-4.bg-t1-23
           p Los clientes hacen parte del activo más importante de la empresa, pues es lo que les permite posicionarse en el mercado, contribuyendo notablemente en el crecimiento económico mediante la generación de ingresos, disminuye costos de #[i marketing], debilita la competencia, aumenta la reputación y el buen nombre de la organización y, finalmente, contribuye al mejoramiento continuo de los procesos frente a los productos y/o servicios ofertados.
 
           a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Cliente-o-usuario.pdf')" target="_blank")
@@ -496,7 +496,7 @@
                  
           p.text-white Al hablar de atención al cliente, es la interacción directa que existe entre el vendedor y el comprador, específicamente, hace referencia al trato que recibe cuando muestra interés por nuestros productos o servicios.
 
-        .col-md.tarjeta.bg-t1-5.p-5
+        .col-md.tarjeta.bg-t1-6.p-5
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-2
               figure
@@ -660,7 +660,7 @@
       .col-lg-12.mt-4
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
-            .row.d-flex.align-items-stretch.bg-t1-1
+            .row.d-flex.align-items-stretch.bg-t1-20
               .col-lg-7.p-lg-5
                 .p-2.w-100.align-items-center
                 .bloque-texto-c.p-4
@@ -790,7 +790,7 @@
     .row.align-items-center.justify-content-center
 
       .col-lg-8
-        .row.p-4.bg-intro1
+        .row.p-4.bg-t1-23
           p De acuerdo con la Cámara de Comercio de Bogotá (2010), en el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad de forma positiva; según el trato ofrecido a los clientes externos se genera una percepción favorable.
 
           a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Etiqueta-protocolo-empresarial.pdf')" target="_blank")

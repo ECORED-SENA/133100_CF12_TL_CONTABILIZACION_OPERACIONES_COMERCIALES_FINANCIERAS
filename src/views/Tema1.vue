@@ -43,7 +43,7 @@
 
     .row.mt-4.justify-content-center.align-items-center
       .col-lg-5
-        .p.p-4.bg-t1-2 Se debe entender que el servicio inicia desde que el cliente muestra interés por nuestros productos o servicios, desde este momento se requiere acompañamiento y asesoría permanente para que pueda tomar decisiones acertadas de compra que en últimas se verán reflejadas en la satisfacción del servicio. Finalmente, cuando el cliente haya obtenido el producto o servicio, la empresa debe continuar con acciones relacionadas con las garantías, instalaciones, mantenimientos y actividades adicionales que generen confianza y seguridad.
+        .p.p-4.bg-intro1 Se debe entender que el servicio inicia desde que el cliente muestra interés por nuestros productos o servicios, desde este momento se requiere acompañamiento y asesoría permanente para que pueda tomar decisiones acertadas de compra que en últimas se verán reflejadas en la satisfacción del servicio. Finalmente, cuando el cliente haya obtenido el producto o servicio, la empresa debe continuar con acciones relacionadas con las garantías, instalaciones, mantenimientos y actividades adicionales que generen confianza y seguridad.
 
       .col-lg-7
         .row.align-items-center.justify-content-center
@@ -58,7 +58,7 @@
             p.mt-4.mt-lg-0 En tal sentido, es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que lleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.bg-t1-3.p-3.p-sm-4.p-md-5(data-aos="fade-down")
+      .bloque-texto-g.bloque-texto-g--inverso.bg-t1-6.p-3.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
         )
@@ -106,7 +106,7 @@
       .col-lg-12.mt-4
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
-            .row.d-flex.align-items-stretch.bg-intro1
+            .row.d-flex.align-items-stretch.bg-t1-19
               .col-lg.p-lg-5
                 .p-2.w-100.align-items-center
                   p #[b Características:]
@@ -163,7 +163,7 @@
                  
           p.text-white Son documentos impresos, pueden ser trípticos o dípticos que manejan información concisa y manual de publicidad que se encuentra escrito de forma completa.
 
-        .col-md.tarjeta.bg-t1-5.p-5
+        .col-md.tarjeta.bg-t1-6.p-5
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-2
               figure
@@ -181,7 +181,7 @@
       .col-lg-12.mt-4
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
-            .row.d-flex.align-items-stretch.bg-intro1
+            .row.d-flex.align-items-stretch.bg-t1-1
               .col-lg-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                 figure.m-0.p-0.w-100.h-100.d-flex
                   img(src='@/assets/curso/tema1/img13.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")

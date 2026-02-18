@@ -3,8 +3,8 @@ export default {
     Name: 'Servicio al cliente',
     Description:
       'En el ámbito empresarial y profesional es fundamental aplicar técnicas y herramientas de servicio al cliente, que satisfagan las necesidades y expectativas de los diferentes usuarios; por lo anterior, se trabajará la temática de servicio al cliente, donde se desarrolla su clasificación, tipología, técnicas de comunicación, etiqueta y protocolo empresarial, normatividad vigente y operación del servicio referente al manejo de información, solicitudes y respuestas.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
