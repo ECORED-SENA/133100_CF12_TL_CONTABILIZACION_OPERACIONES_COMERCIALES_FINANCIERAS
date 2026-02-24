@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Momentos de verdad',
       significado:
-        'interacción que existe entre el cliente y la empresa. Se presenta una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado se generan momentos negativos o positivos de acuerdo con la percepción del cliente y originadas por la experiencia obtenida desde que realizó contacto con la empresa.',
+        'interacción que existe entre el cliente y la empresa. Se presenta una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultad, se generan momentos negativos o positivos de acuerdo con la percepción del cliente, originadas por la experiencia obtenida desde que realizó contacto con la empresa.',
     },
     {
       termino: 'Servicio',

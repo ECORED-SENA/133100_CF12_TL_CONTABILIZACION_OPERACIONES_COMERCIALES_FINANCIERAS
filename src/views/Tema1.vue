@@ -17,7 +17,7 @@
                   img(src='@/assets/curso/tema1/img1.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
               .col-lg.p-lg-5
                 .p-2.w-100.align-items-center
-                  p En la actualidad, en medio de tanta competitividad se hace necesario que las empresas tengan una cultura empresarial, y de servicio al cliente, donde se otorgue gran importancia a la satisfacción de las necesidades, expectativas y gustos de los diferentes usuarios.
+                  p En la actualidad, en medio de tanta competitividad, se hace necesario que las empresas tengan una cultura empresarial, y de servicio al cliente, donde se otorgue gran importancia a la satisfacción de las necesidades, expectativas y gustos de los diferentes usuarios.
 
                   p Para lograr los objetivos propuestos, es fundamental que los colaboradores que se relacionan directamente con los clientes externos, se encuentren comprometidos y capacitados para desempeñarse ante cualquier evento que se pueda presentar en ejercicio de las actividades propias de la empresa y su cargo.
 
@@ -76,7 +76,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1(style="color: #FD9826 !important") Toda la actualidad sobre la norma ISO 9001/2015
-              p.mb-0.text-white Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso.
+              p.mb-0.text-white Para ampliar la información, se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso.
     
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.nueva-iso-9001-2015.com/" target="_blank")

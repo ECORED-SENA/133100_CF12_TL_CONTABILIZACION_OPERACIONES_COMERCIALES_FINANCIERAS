@@ -50,7 +50,7 @@
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-4 
-        p Actualmente existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente; lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, donde el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes.
+        p Actualmente, existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente; lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, donde el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes.
       .col-lg-4.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema2/img3.png', alt='', style="width: 400px").m-auto
@@ -519,7 +519,7 @@
     p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) deben ser basadas en principios y valores éticos. Los clientes se clasifican en:
 
     .row.bg-t1-16.mt-4
-      .col-12
+      .col-11
         .p-5
           .tarjeta.tarjeta--azul.mb-6(style='background-color: white !important')
             .p-4.p-lg-5
@@ -627,7 +627,7 @@
                     figure
                       img(src='@/assets/curso/tema2/img31.png')
 
-                .row.justify-content-center.align-items-center.my-lg-4
+                .row.justify-content-center.align-items-center.my-lg-3
                   .col-md-7.mb-4.mb-md-0
                     h4 Clientes potenciales
                     p Son los individuos o empresas que se consideran pueden ser clientes en un futuro, para lo cual se desarrollan estrategias de #[i marketing] con el fin de ampliar el mercado objetivo.
@@ -791,7 +791,7 @@
 
       .col-lg-8
         .row.p-4.bg-t1-23
-          p De acuerdo con la Cámara de Comercio de Bogotá (2010), en el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad de forma positiva; según el trato ofrecido a los clientes externos se genera una percepción favorable.
+          p De acuerdo con la Cámara de Comercio de Bogotá (2010), en el entorno empresarial, los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad de forma positiva; según el trato ofrecido a los clientes externos, se genera una percepción favorable.
 
           a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Etiqueta-protocolo-empresarial.pdf')" target="_blank")
             .anexo2__icono
