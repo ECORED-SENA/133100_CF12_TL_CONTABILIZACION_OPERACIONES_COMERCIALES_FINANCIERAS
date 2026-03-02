@@ -159,7 +159,7 @@
             figure
               img(src="@/assets/curso/tema2/img7.svg", alt="", style="width: 85px").m-auto
           .col-lg-10
-            p Es la interacción que existe entre el cliente y la empresa. Se presentan una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado se generan momentos negativos o positivos de acuerdo con la percepción del cliente originadas por la experiencia obtenida desde que realizó contacto con la empresa.
+            p Es la interacción que existe entre el cliente y la empresa. Se presentan una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado, se generan momentos negativos o positivos de acuerdo con la percepción del cliente, originadas por la experiencia obtenida desde que realizó contacto con la empresa.
 
         p.mt-2 El objetivo es anticiparse a dichos momentos y de esta manera implementar estrategias que contribuyan a obtener experiencias positivas y satisfactorias para los clientes. Cabe resaltar que la actitud y compromiso de los colaboradores inciden directamente en la percepción de estos; por ende, la importancia de capacitarlos y generar un clima organizacional para beneficio de las partes interesadas.
 
