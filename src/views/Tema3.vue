@@ -63,7 +63,7 @@
     p.mt-4 De igual forma, el Decreto 1377 de 2013, establece directrices para el tratamiento y protección de datos, la cual reglamenta parcialmente la Ley 1581 de 2012, que dice:
 
     .row.bg-t1-22.p-4.mt-4(data-aos="fade-left")
-      p Que mediante la Ley 1581 de 2012 se expidió el Régimen General de Protección de Datos Personales, el cual, de conformidad con su artículo 1, tiene por objeto “( … ) desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma” (Ministerio de Comercio, Industria y Turismo, 2013).
+      p Que mediante la Ley 1581 de 2012 se expidió el Régimen General de Protección de Datos Personales, el cual, de conformidad con su artículo 1, tiene por objeto desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma” (Ministerio de Comercio, Industria y Turismo, 2013).
 
       p Que la Ley 1581 de 2012 constituye el marco general de la protección de los datos personales en Colombia (Ministerio de Comercio, Industria y Turismo, 2013).
 

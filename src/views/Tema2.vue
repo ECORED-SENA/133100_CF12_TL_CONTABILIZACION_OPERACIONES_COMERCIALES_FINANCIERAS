@@ -516,7 +516,7 @@
           .col
             h3.mb-0 Tipología de los clientes
 
-    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) deben ser basadas en principios y valores éticos. Los clientes se clasifican en:
+    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, y creativa. La actitud y disposición del cliente interno (colaboradores) deben ser basadas en principios y valores éticos. Los clientes se clasifican en:
 
     .row.bg-t1-16.mt-4
       .col-11

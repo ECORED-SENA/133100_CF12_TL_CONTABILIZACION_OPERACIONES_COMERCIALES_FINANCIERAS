@@ -130,11 +130,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -159,20 +159,10 @@ export default {
   },
   complementario: [
     {
-      tema: 'Gerencia del servicio',
-      referencia:
-        'Prieto, J. (2018). <em>Gerencia del servicio</em>. (4a. ed.). Ecoe Ediciones. ',
-      tipo: 'Capítulo I, II, III',
-      link:
-        'https://www.google.com.co/books/edition/Gerencia_del_servicio/N8K4DQAAQBAJ?hl=es-419&gbpv=1&pg=PA2&printsec=frontcover',
-    },
-    {
-      tema: 'Política de atención al cliente - <em>Pymerang</em>',
-      referencia:
-        'Ugalde, R., A., (16 de septiembre de 2019) <em>política de atención al cliente</em>. Pymerang.com',
-      tipo: 'Página web',
-      link:
-        'https://pymerang.com/ventas-y-servicio/servicio-al-cliente/243-la-politica-de-atencion-al-cliente',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
   ],
   glosario: [
@@ -212,7 +202,7 @@ export default {
     {
       termino: 'Momentos de verdad',
       significado:
-        'interacción que existe entre el cliente y la empresa. Se presenta una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultad, se generan momentos negativos o positivos de acuerdo con la percepción del cliente, originadas por la experiencia obtenida desde que realizó contacto con la empresa.',
+        'interacción que existe entre el cliente y la empresa. Se presenta una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado, se generan momentos negativos o positivos de acuerdo con la percepción del cliente, originadas por la experiencia obtenida desde que realizó contacto con la empresa.',
     },
     {
       termino: 'Servicio',
@@ -272,7 +262,7 @@ export default {
       referencia:
         'Ministerio de Comercio, Industria y Turismo. (27 de junio de 2013). Decreto 1377 de 2013.',
       link:
-        'http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/JUNIO/27/DECRETO%201377%20DEL%2027%20DE%20JUNIO%20DE%202013.pdf',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
     },
     {
       referencia:
@@ -318,7 +308,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Líder del ecosistema',
-          centro: 'Centro Agroturístico- Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',

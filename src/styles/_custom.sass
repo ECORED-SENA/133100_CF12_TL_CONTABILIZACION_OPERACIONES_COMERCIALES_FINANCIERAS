@@ -28,10 +28,10 @@
     transform: translateX(20px)
   100%
     transform: translateX(0px)
-  
+
 .banner-principal .tarjeta
   background-position: left 50% !important
-  @media screen and ( max-width: $bp-max-lg )
+  @media screen and ( max-width: $bp-max-lg)
     background-image: url("../assets/curso/portada/fondo-banner-principal-tb.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-mv.png") !important
@@ -41,52 +41,51 @@
 
 .banner-principal__row .banner-principal__img
   width: 425px !important
-  padding-bottom: 0px !important 
+  padding-bottom: 0px !important
   top: -1.5rem
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: black !important
 
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: $color-acento-contenido !important
 
 figcaption
   font-weight: normal
 
 .bg
-  &-intro1 
+  &-intro1
     background-color: #FED5A7
-  &-c3 
+  &-c3
     background-color: #FD9826
     background-repeat: repeat-x
     background-position: center center // centro horizontal y vertical
     height: 36px
     display: flex
     align-items: center
-    justify-content: center 
-
+    justify-content: center
     @media screen and (max-width: $bp-max-sm)
       background-repeat: repeat
-      background-position: center top 
+      background-position: center top
       height: auto
 
-  &-t1-1 
+  &-t1-1
     background-color: #CBD8DF
-  &-t1-2 
+  &-t1-2
     background-color: #FED6A8
     border-radius: 10px
-  &-t1-3 
+  &-t1-3
     background-color: #CDB9F8
-  &-t1-4 
+  &-t1-4
     background-color: #003F62
-  &-t1-5 
+  &-t1-5
     background-color: #E8E8E8
-  &-t1-6 
+  &-t1-6
     background-color: #FD9826
-  &-t1-7 
+  &-t1-7
     background-color: #FEEAD4
     border-radius: 10px
-  &-t1-8 
+  &-t1-8
     background-color: #E6DCFB
     border-radius: 10px
   &-t1-9
@@ -155,50 +154,50 @@ figcaption
 
   // Carousel Styles
 .carousel-bg .fas
- &.fa-chevron-left, &.fa-chevron-right
-   display: inline-flex
-   align-items: center
-   justify-content: center
-   width: 40px
-   height: 40px
-   background-color: $color-acento-botones
-   border-radius: 50%
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
-   color: #000
-   font-size: 16px
-   @media screen and (max-width: $bp-max-lg)
-    width: 30px
-    height: 30px
+  &.fa-chevron-left, &.fa-chevron-right
+    display: inline-flex
+    align-items: center
+    justify-content: center
+    width: 40px
+    height: 40px
+    background-color: $color-acento-botones
+    border-radius: 50%
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+    color: #000
+    font-size: 16px
+    @media screen and (max-width: $bp-max-lg)
+      width: 30px
+      height: 30px
 
 // Slider Responsive Styles
 @media screen and (max-width: $bp-max-sm)
- .slyder-f
-   &__main
-     width: 76%
-   &__btn
-     width: 12%
+  .slyder-f
+    &__main
+      width: 76%
+    &__btn
+      width: 12%
 
 @media screen and (max-width: $bp-max-xs)
- .slyder-f
-   &__main
-     width: 60%
-   &__btn
-     width: 20%
+  .slyder-f
+    &__main
+      width: 60%
+    &__btn
+      width: 20%
 
 //// Tarjetas --------------------------------------
 .crd
   &.brd--rad
-    border-radius: 20px 
+    border-radius: 20px
   &.crd--grayGrad
     padding: 2rem
     height: 100%
     background-color: #F6F6F6
-    border-radius: 15px    
+    border-radius: 15px
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
-    &:hover      
+    &:hover
       background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
       h4, p
-        color: white 
+        color: white
       .bottomCircle
         &::before
           background-color: #FED981
@@ -229,12 +228,12 @@ figcaption
   padding-right: 12rem
   & > *
     position: relative
-  h5 
+  h5
     color: #7F4FC7
-  p 
+  p
     margin-bottom: 0
-  &::before  
-    position: absolute 
+  &::before
+    position: absolute
     content: ''
     top: 0
     right: 0
@@ -246,14 +245,14 @@ figcaption
     padding-right: 2rem
 
 .crd--first, .crd--last
-  &::before 
+  &::before
     background-color: #DDEDF8 !important
 
 .crd--first
-  &::before 
+  &::before
     border-top-left-radius: 30px
 .crd--last
-  &::before 
+  &::before
     border-bottom-left-radius: 30px
 
 .avatar
@@ -264,21 +263,21 @@ figcaption
   @media (max-width: 1000px)
     display: none
 
-.tarjeta--slyder  
+.tarjeta--slyder
   height: 100%
   background-color: white
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
-  
+
 .custom
   .horizontal-scroll__wrapper
-    padding: 2rem 0.5rem 
+    padding: 2rem 0.5rem
 
 .custom
   .horizontal-scroll
     align-items: stretch !important
 
-.lista-ul--color li > i:first-of-type 
-    color: #5B39A6 !important
+.lista-ul--color li > i:first-of-type
+  color: #5B39A6 !important
 
 ///// SLyder A tipo B Custom --------------------------------------
 .slyder-a__tipo-b .slyder-a__btn--atrs
@@ -293,7 +292,7 @@ figcaption
     width: 30px
     height: 30px
 
-.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
   border: none
 
 .slyder-a__bullets__item--active
@@ -303,15 +302,12 @@ figcaption
 .slyder-a__bullets__item
   background-color: #FD9826
 
-
-
-.lista-ul--color li > i:first-of-type 
-    color: #5B39A6 !important
+.lista-ul--color li > i:first-of-type
+  color: #5B39A6 !important
 
 .higth-recuadros
   height: 332px !important
   background-color: #CBE7E8
-
 
 .anexo2
   background-color: #DDEFFD
@@ -327,7 +323,7 @@ figcaption
     background-color: #cce0f7
     border-color: #bbb
 
-  &__icono 
+  &__icono
     margin-right: 0.5rem
 
 .hr-t2
@@ -341,20 +337,19 @@ figcaption
   .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
     background-color: #CBE7E8
 
-.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
-    background-color: #FD9826
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FD9826
 
 .h-t3
   min-height: 200px !important
 
-.alto-igual 
+.alto-igual
   display: flex
   flex-direction: column
   gap: 1rem
 
-
-.alto-igual > .col-12 
+.alto-igual > .col-12
   flex: 1
-@media (min-width: 992px) 
-  .banner-principal__img img 
-    transform: translateY(13%);
+@media (min-width: 992px)
+  .banner-principal__img img
+    transform: translateY(13%)
